@@ -1,0 +1,6 @@
+langchain_community
+langchain
+sentence-transformers==2.1.0
+streamlit 
+dotnev
+google-generativeai
