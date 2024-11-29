@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/3d5baadb-b1a1-4d10-b703-c49ca0e816b2
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/insight-pdf-chatbot.git
-    cd insight-pdf-chatbot
+    git clone https://github.com/nitheesh1904/RAG_chatbot.git
+    cd RAG_chatbot
     ```
 
 2. Install the required Python packages:
